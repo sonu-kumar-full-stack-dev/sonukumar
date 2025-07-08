@@ -2,6 +2,8 @@
 
 **Experienced Software Developer | Quantitative Trading Enthusiast | Full-Stack Engineer**
 
+With over 8+ years of experience in building high-performance software applications, I specialize in:
+
 ---
 
 ## 🔧 Tech Stack
